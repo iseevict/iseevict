@@ -4,6 +4,8 @@
 
 #### 👋 Hello! I'm Norman.
 
+![image](https://github.com/iseevict/iseevict/assets/112475555/203d1a00-b9fd-4bc4-89d1-2bf819af3a72)
+
 <br/>
 <br/>
 
