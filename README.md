@@ -4,7 +4,7 @@
 
 #### 👋 Hello! I'm Norman.
 
-![image](https://github.com/iseevict/iseevict/assets/112475555/203d1a00-b9fd-4bc4-89d1-2bf819af3a72)
+![image](https://github.com/iseevict/iseevict/assets/112475555/5ca49157-2c53-45b2-adaa-6997fa268fd7)
 
 <br/>
 <br/>
