@@ -1,8 +1,10 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=9fc5e8&text=Welcome&animation=fadeIn&fontColor=ffffff&desc=Iseevict's%20GitHub&descAlignY=80)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&text=Norman&animation=fadeIn&fontColor=ffffff&height=200)
 
 #### 👋 Hello! I'm Norman.
+
+##### 🦇 안녕하세요. 백엔드 개발자 박승태 입니다. 👻
 
 ![image](https://github.com/iseevict/iseevict/assets/112475555/5ca49157-2c53-45b2-adaa-6997fa268fd7)
 
