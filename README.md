@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&text=Norman&animation=fadeIn&fontColor=ffffff&height=230)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=7FFF00&text=Norman&animation=fadeIn&fontColor=ffffff&height=230&fontAlign=30)
 
 #### 👋 Hello! I'm Norman.
 
