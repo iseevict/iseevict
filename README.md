@@ -11,6 +11,16 @@
 <br/>
 <br/>
 
+## 💻 Experience 💻
+
+<div align="left">
+- [2021.09 ~ 2022.03] IXPLOIT Web Hacking Study <br>
+- [2023.03 ~ 2023.08] UMC inha 4th PM (CMAP 기획) <br>
+- [2023.09 ~ 2024.01] UMC inha 5th Node.js <br>
+- [2024.03 ~ ] UMC inha 6th Node.js 파트장 <br>
+- [2024.03 ~ ] UMC inha 6th Spring <br>
+</div>
+
 ## ✨ Tech Stack ✨
 
 ### 🛠️ Used Main 🛠️
